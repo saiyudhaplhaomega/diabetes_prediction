@@ -48,5 +48,5 @@ Target variable: `Outcome` (0 = No diabetes, 1 = Diabetes)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/diabetes-prediction-svm.git
-cd diabetes-prediction-svm
+git clone https://github.com/saiyudhaplhaomega/diabetes_prediction.git
+cd diabetes_prediction
